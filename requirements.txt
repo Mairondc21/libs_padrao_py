@@ -1,0 +1,8 @@
+mkdocs
+mkdocs-mermaid2-plugin
+mkdocs-material
+mkdocstrings[crystal]
+black
+ipython
+pip-tools
+ruff
